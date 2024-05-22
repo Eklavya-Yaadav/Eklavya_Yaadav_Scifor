@@ -1,2 +1,2 @@
-# AI/ML Internship 
-Projects repository of Meta Scifor Technologies
+# AI/ML Internship [MST02-0021]
+Meta Scifor Technologies
