@@ -1,1 +1,1 @@
-# Implementation of KNN Algorithmn
+# Implementation of KNN Algorithm
